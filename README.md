@@ -2,7 +2,7 @@
 
 ## 1. Datos generales
 
-- **Nombre completo: Jose Lisandro Carabantes
+- **Nombre completo: Jose Lisandro Carabantes Quijada
 - **Carné:** Completar
 - **Correo institucional:lisandrocq@gmail.com
 - **Asignatura:LENGUAJES DE PROGRAMACIÓN CON ASPECTOS DE SEGURIDAD
